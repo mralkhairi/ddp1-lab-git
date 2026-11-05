@@ -1,2 +1,3 @@
-print("Nama: Muhammad Rifqi Alkhairi")
-print("NPM: 2606888175")
+nama = input("Nama: ")
+npm = 2606888175
+
